@@ -4,7 +4,7 @@ These projects are based off [11 Python Projects Junior Developers Can Build for
 Projects for junior Python developers
 > Here are some beginner-friendly projects for you to work on:
 
-- [ ] 1. Odd or even 
+- [x] 1. Odd or even 
 - [ ] 2. Mad Libs Game
 - [ ] 3. Word Count
 - [ ] 4. Biography info
