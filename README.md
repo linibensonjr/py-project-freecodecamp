@@ -5,7 +5,7 @@ Projects for junior Python developers
 > Here are some beginner-friendly projects for you to work on:
 
 - [x] 1. Odd or even 
-- [ ] 2. Mad Libs Game
+- [X] 2. Mad Libs Game
 - [ ] 3. Word Count
 - [ ] 4. Biography info
 - [ ] 5. What's my acronym?
