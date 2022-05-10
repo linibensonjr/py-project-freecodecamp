@@ -6,7 +6,7 @@ Projects for junior Python developers
 
 - [x] 1. Odd or even 
 - [X] 2. Mad Libs Game
-- [ ] 3. Word Count
+- [x] 3. Word Count
 - [ ] 4. Biography info
 - [ ] 5. What's my acronym?
 - [ ] 6. Rock, Paper, Scissors
