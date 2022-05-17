@@ -11,7 +11,7 @@ Projects for junior Python developers
 - [ ] 5. What's my acronym?
 - [ ] 6. Rock, Paper, Scissors
 - [ ] 7. Guess the number
-- [ ] 8. Is a palindrome
+- [x] 8. Is a palindrome
 - [ ] 9. Calculate the tip
 - [ ] 10. Email slicer
 - [ ] 11. Lyrics generator
